@@ -2,7 +2,12 @@
 c++ implemented simple canvas
 
 # Context
-paint device
+kind of paint device
+- Font
+- Pen
+- Brush
+- TextMetric
+- AffineMaxtrix
 
 # Surface
 paint buffer
